@@ -1,4 +1,4 @@
-![BugBros.dev Logo](./assets/logo1.png)
+![BugBros.dev Logo](./../assets/logo1.png)
 
 # 🐛 BugBros.dev
 
